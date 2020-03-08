@@ -23,6 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://makundstagram.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
